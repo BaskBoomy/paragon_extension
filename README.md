@@ -13,3 +13,8 @@ Easily search for integrations using a search bar with debouncing for efficient 
 
 ### Quick Access to Dashboard
 Buttons to quickly access the Paragon Dashboard and Login pages.
+
+## About Paragon
+
+[Paragon](https://www.useparagon.com) is a platform for integrating your product with third-party SaaS apps, providing a seamless integration experience for developers.
+
