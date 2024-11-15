@@ -1,0 +1,297 @@
+[
+  {
+    "name": "ActiveCampaign",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/activecampaign"
+  },
+  {
+    "name": "Adobe Acrobat Sign",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/adobe-acrobat-sign"
+  },
+  {
+    "name": "Adobe Experience Manager",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/adobe-experience-manager"
+  },
+  {
+    "name": "ADP Workforce Now",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/adp-workforce-now"
+  },
+  {
+    "name": "Airtable",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/airtable"
+  },
+  {
+    "name": "Amazon S3",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/amazon-s3"
+  },
+  {
+    "name": "Amplitude",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/amplitude"
+  },
+  {
+    "name": "Apollo.io",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/apollo-io"
+  },
+  {
+    "name": "Asana",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/asana"
+  },
+  {
+    "name": "Azure DevOps",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/azure-devops"
+  },
+  {
+    "name": "BambooHR",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/bamboohr"
+  },
+  {
+    "name": "BigQuery",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/bigquery"
+  },
+  {
+    "name": "Box",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/box"
+  },
+  {
+    "name": "Calendly",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/calendly"
+  },
+  {
+    "name": "ClickUp",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/clickup"
+  },
+  {
+    "name": "Close",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/close"
+  },
+  {
+    "name": "Coda",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/coda"
+  },
+  {
+    "name": "Confluence",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/confluence"
+  },
+  {
+    "name": "Copper",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/copper"
+  },
+  {
+    "name": "DocuSign",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/docusign"
+  },
+  {
+    "name": "Dropbox",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/dropbox"
+  },
+  {
+    "name": "Dropbox Sign",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/dropbox-sign"
+  },
+  {
+    "name": "Dynamics 365 Business Central",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/dynamics-365-business-central"
+  },
+  {
+    "name": "Dynamics 365 Finance",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/dynamics-365-finance"
+  },
+  {
+    "name": "Emarsys",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/emarsys"
+  },
+  {
+    "name": "Freshdesk",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/freshdesk"
+  },
+  {
+    "name": "Facebook Ads",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/facebook-ads"
+  },
+  {
+    "name": "GitHub",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/github"
+  },
+  {
+    "name": "GitLab",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/gitlab"
+  },
+  {
+    "name": "Google Ads",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/google-ads"
+  },
+  {
+    "name": "Google Analytics",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/google-analytics"
+  },
+  {
+    "name": "Google Calendar",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/google-calendar"
+  },
+  {
+    "name": "Google Contacts",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/google-contacts"
+  },
+  {
+    "name": "Google Drive",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/google-drive"
+  },
+  {
+    "name": "Google Sheets",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/google-sheets"
+  },
+  {
+    "name": "Greenhouse",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/greenhouse"
+  },
+  {
+    "name": "HubSpot",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/hubspot"
+  },
+  {
+    "name": "Intercom",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/intercom"
+  },
+  {
+    "name": "Jira",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/jira"
+  },
+  {
+    "name": "Lever",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/lever"
+  },
+  {
+    "name": "LinkedIn Ads",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/linkedin-ads"
+  },
+  {
+    "name": "Mailchimp",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/mailchimp"
+  },
+  {
+    "name": "Marketo",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/marketo"
+  },
+  {
+    "name": "Microsoft Dynamics 365",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/microsoft-dynamics-365"
+  },
+  {
+    "name": "Monday.com",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/monday-com"
+  },
+  {
+    "name": "Notion",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/notion"
+  },
+  {
+    "name": "Outreach",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/outreach"
+  },
+  {
+    "name": "Pipedrive",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/pipedrive"
+  },
+  {
+    "name": "QuickBooks",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/quickbooks"
+  },
+  {
+    "name": "Salesforce",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/salesforce"
+  },
+  {
+    "name": "SendGrid",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/sendgrid"
+  },
+  {
+    "name": "Slack",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/slack"
+  },
+  {
+    "name": "Stripe",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/stripe"
+  },
+  {
+    "name": "SurveyMonkey",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/surveymonkey"
+  },
+  {
+    "name": "Trello",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/trello"
+  },
+  {
+    "name": "Twilio",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/twilio"
+  },
+  {
+    "name": "Typeform",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/typeform"
+  },
+  {
+    "name": "Zendesk",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/zendesk"
+  },
+  {
+    "name": "Zoom",
+    "icon_url": "",
+    "doc_url": "https://docs.useparagon.com/resources/integrations/zoom"
+  }
+]
